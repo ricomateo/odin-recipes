@@ -1,0 +1,35 @@
+h1 {
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+a {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+* {
+    font-family: sans-serif;
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    text-align: center;
+    width: 600px;
+    height: auto;
+    margin-left: 400px;
+    border-radius: 100px;
+    background-color: black;
+}
+
+h3 {
+    background-color: yellow;
+    color: maroon;
+}
+
+li {
+    background-color: khaki;
+}
